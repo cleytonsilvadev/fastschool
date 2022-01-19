@@ -1,3 +1,3 @@
 print('hello world')
 print('segundo print')
-print('teste')
+print('hello world\n \t segundo print')
